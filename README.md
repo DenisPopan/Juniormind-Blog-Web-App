@@ -2,7 +2,7 @@
 
 This project was created by Hui Adrian, Musan Andrei and Popan Denis-Andrei for learning purposes. It represents a blog web application where users can view and add, edit or delete posts and comments. Some users can also be administrators that can view, add, edit or remove other users and manage all posts and comments. 
 
-# Tools and technolgies used
+# Tools and technologies used
 
 - front-end: HTML, CSS, TypeScript, React, Redux, Axios, Bootstrap, Styled components
 - back-end: Node.js, Express.js, TypeORM, OAuth service, CORS, Multer service, Jest, SQLite database
