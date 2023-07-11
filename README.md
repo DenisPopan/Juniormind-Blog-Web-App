@@ -5,7 +5,7 @@ This project was created by Hui Adrian, Musan Andrei and Popan Denis-Andrei for 
 # Tools and technologies used
 
 - front-end: HTML, CSS, TypeScript, React, Redux, Axios, Bootstrap, Styled components
-- back-end: Node.js, Express.js, TypeORM, OAuth service, CORS, Multer service, Jest, SQLite database
+- back-end: Node.js, Express.js, TypeORM, OAuth, CORS, Multer, Jest, SQLite database
 
 # Pre-requisites
 
@@ -37,6 +37,13 @@ npm start
 
 ```
 npm start
+```
+
+## 5. Log in using the default administrator credentials
+
+```
+email: admin@localhost.com
+password: 123456
 ```
 
 # Testing (optional)
